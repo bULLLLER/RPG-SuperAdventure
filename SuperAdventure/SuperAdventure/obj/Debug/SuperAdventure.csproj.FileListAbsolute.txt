@@ -9,3 +9,6 @@ C:\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.Genera
 C:\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
 C:\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
 C:\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
+E:\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+E:\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+E:\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
