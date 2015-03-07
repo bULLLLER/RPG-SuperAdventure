@@ -1,0 +1,11 @@
+E:\AdventureUltimate\AdventureUltimate\bin\Debug\AdventureUltimate.exe.config
+E:\AdventureUltimate\AdventureUltimate\bin\Debug\AdventureUltimate.exe
+E:\AdventureUltimate\AdventureUltimate\bin\Debug\AdventureUltimate.pdb
+E:\AdventureUltimate\AdventureUltimate\bin\Debug\Engine.dll
+E:\AdventureUltimate\AdventureUltimate\bin\Debug\Engine.pdb
+E:\AdventureUltimate\AdventureUltimate\obj\Debug\AdventureUltimate.csprojResolveAssemblyReference.cache
+E:\AdventureUltimate\AdventureUltimate\obj\Debug\AdventureUltimate.Properties.Resources.resources
+E:\AdventureUltimate\AdventureUltimate\obj\Debug\AdventureUltimate.csproj.GenerateResource.Cache
+E:\AdventureUltimate\AdventureUltimate\obj\Debug\AdventureUltimate.exe
+E:\AdventureUltimate\AdventureUltimate\obj\Debug\AdventureUltimate.pdb
+E:\AdventureUltimate\AdventureUltimate\obj\Debug\AdventureUltimate.AdventureUltimate.resources

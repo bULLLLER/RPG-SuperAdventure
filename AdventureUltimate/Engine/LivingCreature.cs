@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Engine {
-    public class Armor : Item {
-        public int ExtraHitPoints { get; set; }
+    public class LivingCreature {
+        public int CurrentHitPoints { get; set; }
+        public int MaximumHitPoints { get; set; }
     }
 }
