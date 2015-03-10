@@ -17,14 +17,15 @@ namespace Engine {
         public Location LocationToSouth { get; set; }
         public Location LocationToWest { get; set; }
 
-        public Location(int id, string name, string description, Item itemRequiredToEnter = null, 
+        //Passing properties (parameters) from location to Location constructor
+        public Location(int id, string name, string description, Item itemRequiredToEnter = null,
             Quest questAvailableHere = null, Monster monsterLivingHere = null) {
-                ID = id;
-                Name = name;
-                Description = description;
-                ItemRequiredToEnter = itemRequiredToEnter;
-                QuestAvailableHere = questAvailableHere;
-                MonsterLivingHere = monsterLivingHere;
+            ID = id;
+            Name = name;
+            Description = description;
+            ItemRequiredToEnter = itemRequiredToEnter;
+            QuestAvailableHere = questAvailableHere;
+            MonsterLivingHere = monsterLivingHere;
         }
     }
 }

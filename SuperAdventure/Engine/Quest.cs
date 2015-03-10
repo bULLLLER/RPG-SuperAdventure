@@ -14,6 +14,7 @@ namespace Engine {
         public Item RewardItem { get; set; }
         public List<QuestCompletionItem> QuestCompletionItems { get; set; }
 
+        //Passing properties (parameters) to Quest constructor for later ease of use
         public Quest(int id, string name, string description, int rewardExperiencePoints, 
             int rewardGold) {
                 ID = id;

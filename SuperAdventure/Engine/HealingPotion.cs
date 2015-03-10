@@ -8,6 +8,8 @@ namespace Engine {
     public class HealingPotion : Item {
         public int AmountToHeal { get; set; }
 
+        //Passes values from parameters of HealingPt and passes them to Item constructor
+        //Meaning: passing parameters from derived class constructor to base class constructor
         public HealingPotion(int id, string name, string namePlural, int amountToHeal)
             : base(id, name, namePlural) {
                 AmountToHeal = amountToHeal;
